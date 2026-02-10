@@ -13,6 +13,8 @@ A JavaFX application built with Maven that performs bi-directional conversion be
 - **JavaFX**: For the Graphical User Interface (GUI).
 - **Jackson Library**:  Used for the XML-to-JSON transformation .
 - **StAX**:  Used for manual XML writing during JSON-to-XML conversion.
+- ## Vidéo de démonstration
+https://drive.google.com/file/d/1q4vaRAFlNOted_51Tfezk-XYfxW3LV09/view?usp=sharing
 
 ## 📂 Project Structure
 
@@ -32,5 +34,5 @@ XmlJson_Converter/
 ├── .gitignore                               # Excludes 'target/' and local IDE files
 
 └── pom.xml                                  # Maven Dependencies & Build Config
-## Vidéo de démonstration
-https://drive.google.com/file/d/1q4vaRAFlNOted_51Tfezk-XYfxW3LV09/view?usp=sharing
+
+
